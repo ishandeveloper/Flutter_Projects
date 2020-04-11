@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/ishandeveloper/Flutter_Projects.svg)](http://hits.dwyl.com/ishandeveloper/Flutter_Projects)
+
 <img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/hero.png?raw=false">
 
 # Flutter Projects

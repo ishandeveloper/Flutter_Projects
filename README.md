@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/ishandeveloper/Flutter_Projects.svg)](http://hits.dwyl.com/ishandeveloper/Flutter_Projects)
 
-<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/hero.png?raw=false">
+<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/hero.png?raw=false" width="100%">
 
 # Flutter Projects
 Some of the first simple apps I created while on my journey to learn Flutter.

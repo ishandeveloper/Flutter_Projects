@@ -6,7 +6,7 @@
 Some of the first simple apps I created while on my journey to learn Flutter.
 ##### Screenshots
 
-  <img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/dice.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/dict.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/pokemon.jpg?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/qr.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/calc.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/xylo.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/quiz.gif?raw=false" height="400em">
+  <img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/dice.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/dict.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/pokemon.jpg?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/qr.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/calc.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/xylo.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/quiz.gif?raw=false" height="400em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Flutter_Projects/blob/master/screenshots/bmi.gif?raw=false" height="400em">
   
 ## List Of Apps (+ Source Code)
 
@@ -24,6 +24,7 @@ Some of the first simple apps I created while on my journey to learn Flutter.
 
 1.  [Flutter Quiz App](https://github.com/ishandeveloper/Quizzy-App)
 
+1.  [Flutter BMI Calculator App](https://github.com/ishandeveloper/BMI-Calculator-App)
 #### Imports
 
 * Material Package

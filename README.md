@@ -16,21 +16,19 @@ Some of the first simple apps I created while on my journey to learn Flutter.
 
 1.  [Flutter Quiz App](https://github.com/ishandeveloper/Quizzy-App)
 
-1.  [Flutter Dice Roll App](https://github.com/ishandeveloper/Dice-App)
-
-1.  [Flutter Dictionary App](https://github.com/ishandeveloper/Dictionary-App)
+1.  [Flutter Pokemon App](https://github.com/ishandeveloper/Pokemon-App)
 
 1.  [Flutter QR Scanner App](https://github.com/ishandeveloper/QR-Scanner-App)
-
-1.  [Flutter Pokemon App](https://github.com/ishandeveloper/Pokemon-App)
 
 1.  [Flutter Calculator App](https://github.com/ishandeveloper/Calculator-App)
 
 1.  [Flutter Xylophone App](https://github.com/ishandeveloper/Xylophone-App)
 
+1.  [Flutter Dictionary App](https://github.com/ishandeveloper/Dictionary-App)
 
 1.  [Flutter BMI Calculator App](https://github.com/ishandeveloper/BMI-Calculator-App)
 
+1.  [Flutter Dice Roll App](https://github.com/ishandeveloper/Dice-App)
 
 
 #### Imports

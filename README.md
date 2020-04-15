@@ -30,6 +30,7 @@ Some of the first simple apps I created while on my journey to learn Flutter.
 
 1.  [Flutter Dice Roll App](https://github.com/ishandeveloper/Dice-App)
 
+1.  [Flutter Chatter App](https://github.com/ishandeveloper/Chatter-App)
 
 #### Imports
 
